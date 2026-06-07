@@ -33,11 +33,11 @@ Politeknik Manufaktur Bandung
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/prasetyo-dwi-mulyono" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/" target="_blank">
+<a href="https://www.instagram.com/prasssssssss_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -64,53 +64,11 @@ Politeknik Manufaktur Bandung
 
 ---
 
-## 📌 Featured Projects
-
-### 🛒 KurShop Android
-
-Android-based online shop application built using Kotlin and Android Studio.
-
-### 🌐 KurShop Backend
-
-Backend REST API built with Python and Django.
-
-### 🖥 Mini Server TRIN
-
-Mini server monitoring and networking simulation project.
-
-### 🥽 Data Center VR
-
-Virtual Reality simulation project using Unity and XR Interaction Toolkit.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prasetyodwimul&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyodwimul&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=prasetyodwimul&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/prasetyodwimul/prasetyodwimul/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
