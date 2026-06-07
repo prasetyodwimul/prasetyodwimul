@@ -73,6 +73,15 @@ Politeknik Manufaktur Bandung
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/prasetyodwimul/prasetyodwimul/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 
 ## ✨ Quote
 
